@@ -325,22 +325,22 @@ a:visited{
 /* Actual */
 .tableau_box22{
     position: absolute;
-    background-color: rgb(238, 238, 238);
-    left: 237px;
-    right: 224px;
+    background-color: white;
+    left: 40px;
+    right: 40px;
     top: 717px;
     height: 940px;
-    border: solid 2px black;
+    border: solid 2px rgba(0, 0, 0, 0);
     z-index: 1;
 }
 
 .tableau_box21{
     position: absolute;
     background-color: white;
-    left: 230px;
-    right: 230px;
+    left: 40px;
+    right: 40px;
     top: 710px;
     height: 940px;
-    border: solid 2px black;
+    border: solid 2px rgba(0, 0, 0, 0);
     z-index: 2;
 }
